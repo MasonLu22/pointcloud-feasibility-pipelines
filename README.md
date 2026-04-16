@@ -1,6 +1,6 @@
 # 3D Point Cloud Manufacturing Feasibility App
 
-This repository contains a Streamlit app for the ISE 5334 point-cloud assignment. The app is designed to support the Question 4 workflow by building a broader computation pipeline system for manufacturing feasibility classification from 3D point cloud `.ply` files.
+This repository contains a Streamlit app for the ISE 5334 point-cloud assignment. The app is designed to support the Question 4 workflow by building a broader computation pipeline system for manufacturing feasibility classification from 3D point cloud `.ply` files. Note that most of this assignment was implemented by AI tools (ChatGPT). 
 
  \\\\
 
